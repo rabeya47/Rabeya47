@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-**rabeya47/rabeya47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on IsDB-BISEW
 - 🌱 I’m currently learning JAVA language
