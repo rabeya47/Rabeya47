@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm RABEYA 👋🏼 💻
+
+You have finally discovered my GitHub profile.
 
 
 
 
-- 🔭 I’m currently working on IsDB-BISEW
+<!-- - 🔭 I’m currently working on IsDB-BISEW
 - 🌱 I’m currently learning JAVA language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 
