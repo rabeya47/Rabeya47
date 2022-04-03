@@ -18,7 +18,7 @@ You have finally discovered my GitHub profile.
 
 <img height="150" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" alt="Funny pixel cat gif moving its tail." />
 
-I'm a software developer who is passionate about making open-source projects, creating technology people can enjoy and cats 🐱. Some technologies I enjoy working with include Angular, Java, HTML, Javascript and Bootstrap.
+I'm a software developer who is passionate about making open-source projects, creating technology people can enjoy and cats 🐱. Some technologies I enjoy working with include Android(Flutter), SpringBoot, Angular, Java, HTML, Javascript and Bootstrap.
 
 Please feel free to clone projects and raise issues if you think something could be better.
 
