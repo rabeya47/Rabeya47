@@ -36,7 +36,7 @@ Happy coding! 😊
     <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/instagram.jpg" alt="Instagram link to profile" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/miguelbogota">
+  <a href="linkedin.com/in/bibi-rabeya-rabu-009894237">
     <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/linkedin.png" alt="LinkedIn link to profile" />
   </a>&nbsp;&nbsp;
 
