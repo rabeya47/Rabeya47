@@ -40,7 +40,7 @@ Happy coding! 😊
     <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/linkedin.png" alt="LinkedIn link to profile" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://github.com/miguelbogota">
+  <a href="">
     <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/github.png" alt="GitHub link to profile" />
   </a>
 </p>
