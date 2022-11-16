@@ -44,3 +44,11 @@ Happy coding! 😊
     <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/github.png" alt="GitHub link to profile" />
   </a>
 </p>
+
+
+
+<p>
+  <a href="https://www.sololearn.com/certificates/CT-GQ3P2NTI">
+   CERTIFICATE BY SOLOLEARN
+  </a>
+</p>
